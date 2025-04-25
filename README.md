@@ -15,8 +15,7 @@ pip install triton torch
 # Usage
 To run the project:
 
-bash
-Copy
-Edit
+```bash
 python3 main.py
+```
 That's it! Easy, clean, and educational!
